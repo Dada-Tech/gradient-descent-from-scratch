@@ -11,3 +11,8 @@ This notebook explores manually applying gradient descent in a Batch and Stochas
 * Get hands-on experience applying a Regression classifier
   * Made from scratch
   * From Sklearn
+
+## Results
+We correctly apply gradient descent and our cost function for our regression model gets optimized.
+
+![results.png](gradient_descent_training.png)
